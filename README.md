@@ -1,8 +1,9 @@
-### Hi there 👋 I´m Vinícius Sena ### 
+<h2 align="center"> ### Hi there 👋 I´m Vinícius Sena ### </h2>
 
-<!--
-**vinisbs/vinisbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ <!--
+ **vinisbs/vinisbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 
 <picture>
@@ -21,7 +22,7 @@
       <h2 align="center"></h2>   
       <p align="center">
       <br/>    
-         
+   <!--      
   **<p align="center">
   *+        <a href=
   **           "https://github.com/vinisbs/"
@@ -31,3 +32,4 @@
   **             alt="vinisbs :: Top Langs" 
   **             /></a>
   **</p>
+--!>
