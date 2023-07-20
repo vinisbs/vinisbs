@@ -13,7 +13,7 @@
 </picture>
 </picture>
 
-   <h2 align="center">😎 you can reach me by:</h2>
+   <h2 align="center"> 😎 you can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/vinisena/" target="blank"><img align="center"
