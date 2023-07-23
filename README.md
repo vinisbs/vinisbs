@@ -5,15 +5,12 @@
 💻  Code Cadet at @academia-de-codigo 🎓 
 
 ## 🌐 Socials:
-
+</br>
+<h2 align="center">
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ViniciusSena#9821)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visenadev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinisena) 
-
- <!--
- **vinisbs/vinisbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
+</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake-dark.svg">
@@ -32,7 +29,9 @@
       <p align="center">
       <br/>  
 
-     [![](https://visitcount.itsvg.in/api?id=visena20&label=Profile%20Views&color=9&icon=9&pretty=false)](https://visitcount.itsvg.in)
+     <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=visena20&label=Profile%20Views&color=9&icon=9&pretty=false" />
+</a>
 
    <!--      
   **<p align="center">
