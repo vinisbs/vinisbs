@@ -1,5 +1,12 @@
 <h2 align="center">    ###   Hi there   👋   I´m Vinícius Sena    ###     </h2>
 
+# 💫 About Me:
+💻  CodeCadet at @academia-de-codigo <br>🎓 
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ViniciusSena#9821)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visenadev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinisena) 
 
  <!--
  **vinisbs/vinisbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
