@@ -11,7 +11,7 @@
   <a href="https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <a href="https://hibernate.org/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
   <a href="https://maven.apache.org/" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/maven.svg" alt="hibernate" width="40" height="40"/>
-  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/mockito/images/mockito.png" alt="mockito" width="40" height="40"/> </a
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/mockito/images/mockito.png" alt="mockito" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
