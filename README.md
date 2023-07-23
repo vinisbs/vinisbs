@@ -21,7 +21,9 @@
          alt="rikkarth" height="30"/></a>
       <h2 align="center"></h2>   
       <p align="center">
-      <br/>    
+      <br/>  
+
+      [![](https://visitcount.itsvg.in/api?id=vinisbs&icon=0&color=0)](https://visitcount.itsvg.in)
    <!--      
   **<p align="center">
   *+        <a href=
