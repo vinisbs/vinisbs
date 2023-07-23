@@ -1,9 +1,11 @@
 <h2 align="center">    ###   Hi there   👋   I´m Vinícius Sena    ###     </h2>
 
 # 💫 About Me:
-💻  CodeCadet at @academia-de-codigo <br>🎓 
+
+💻  Code Cadet at @academia-de-codigo 🎓 
 
 ## 🌐 Socials:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ViniciusSena#9821)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visenadev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinisena) 
@@ -30,7 +32,7 @@
       <p align="center">
       <br/>  
 
-      [![](https://visitcount.itsvg.in/api?id=vinisbs&icon=0&color=0)](https://visitcount.itsvg.in)
+      [![](https://visitcount.itsvg.in/api?id=visena20&label=Profile%20Views&color=9&icon=9&pretty=false)](https://visitcount.itsvg.in)
    <!--      
   **<p align="center">
   *+        <a href=
