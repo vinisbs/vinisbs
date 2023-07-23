@@ -32,7 +32,8 @@
       <p align="center">
       <br/>  
 
-      [![](https://visitcount.itsvg.in/api?id=visena20&label=Profile%20Views&color=9&icon=9&pretty=false)](https://visitcount.itsvg.in)
+     [![](https://visitcount.itsvg.in/api?id=visena20&label=Profile%20Views&color=9&icon=9&pretty=false)](https://visitcount.itsvg.in)
+
    <!--      
   **<p align="center">
   *+        <a href=
