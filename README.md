@@ -1,7 +1,7 @@
 <h2 align="center">    ###   Hakuta  Matata ###      I´m Vinícius Sena        </h2>
 <br/>
 
-<h5 align="center">💻 Code Cadet em <br/><br/><a href="https://www.academiadecodigo.org">
+<h5 align="center"> 💻 Code Cadet em <br/><br/><a href="https://www.academiadecodigo.org">
   <img src="https://www.eu-startups.com/wp-content/uploads/2019/07/Academia-decodigo-Logo-150x66.png)" alt="Academia de Código" style="width: 100px; height: 50px;"></a>  </h5>
   <br/>
 
