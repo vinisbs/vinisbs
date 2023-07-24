@@ -1,4 +1,4 @@
-<h2 align="center">    ###   Hakuta Matata ###      I´m Vinícius Sena        </h2>
+<h2 align="center">    ###   Hakuta  Matata ###      I´m Vinícius Sena        </h2>
 <br/>
 
 <h5 align="center">💻 Code Cadet em <br/><br/><a href="https://www.academiadecodigo.org">
@@ -22,6 +22,7 @@
  
 
 ## 🌐 Socials:
+
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ViniciusSena#9821)
