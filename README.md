@@ -1,4 +1,5 @@
-<h2 align="center">    ###   Hakuta  Matata ###      I´m Vinícius Sena        </h2>
+![](assets/bottom_up.svg)
+<h2 align="center">         I´m Vinícius Sena        </h2>
 
 ## 🌐 Socials:
 
@@ -33,3 +34,5 @@
 
 
 <img src="https://visitcount.itsvg.in/api?id=ViniciusSena&label=Future%20Collaborators&color=12&icon=4&pretty=false">
+
+![](assets/bottom_down.svg)
