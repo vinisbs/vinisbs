@@ -7,11 +7,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visenadev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinisena) 
 [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351910922069)
-[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1589405) <br/><br/><br/>
+[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1589405) 
 
 
-<h5 align="center"> 💻 Code Cadet @ <br/><br/><a href="https://www.academiadecodigo.org">
-  <img src="https://www.eu-startups.com/wp-content/uploads/2019/07/Academia-decodigo-Logo-150x66.png)" alt="Academia de Código" style="width: 100px; height: 50px;"></a>  </h5> <br/> <br/>
+<h5 align="right"> 💻 Code Cadet @ <br/><br/><a href="https://www.academiadecodigo.org">
+  <img src="https://www.eu-startups.com/wp-content/uploads/2019/07/Academia-decodigo-Logo-150x66.png)" alt="Academia de Código" style="width: 100px; height: 50px;"></a>  </h5> 
 
 <h5 align="left">Languages and Tools:</h5> <p align="center">
 
@@ -30,7 +30,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake.svg">
-</picture> <br/>
+</picture> <br/><br/>
 
 
 <img src="https://visitcount.itsvg.in/api?id=ViniciusSena&label=Future%20Collaborators&color=12&icon=4&pretty=false">
