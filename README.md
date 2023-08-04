@@ -1,5 +1,7 @@
 ![](assets/bottom_up.svg)
-<h2 align="center">         I´m Vinícius Sena        </h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ebbd9b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vinícius+Sena;+Welcome+to+My+Profile!;Starting+a+revolution+in+my+professional+carrer!;Getting+started+Academia+de+Código+bootcamp;Always+hugry+to+learn+more+and+more!)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 
