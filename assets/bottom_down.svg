@@ -16,7 +16,7 @@ svg {
 }
   
 .wave:hover {
-  fill: #f0ddd1;
+  fill: #63300f;
 }
 
 #wave2 {
