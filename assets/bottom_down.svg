@@ -12,11 +12,11 @@ svg {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #000;  
+  fill: #eb853d;  
 }
-
+  
 .wave:hover {
-  fill: #fff;
+  fill: #f0ddd1;
 }
 
 #wave2 {
