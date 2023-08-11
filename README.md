@@ -34,6 +34,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake.svg">
 </picture> <br/><br/>
 
+<p align="right">
+  <a href="https://github.com/vinisbs/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisbs&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vinisbs :: Top Langs" /></a></p>
 
 <img src="https://visitcount.itsvg.in/api?id=ViniciusSena&label=Future%20Collaborators&color=12&icon=4&pretty=false">
 
