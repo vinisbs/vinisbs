@@ -1,6 +1,6 @@
 ![](assets/bottom_up.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ebbd9b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vinícius+Sena;+Welcome+to+My+Profile!;Starting+a+revolution+in+my+professional+carrer!;Getting+started+Academia+de+Código+bootcamp;Always+hugry+to+learn+more+and+more!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ebbd9b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vinícius+Sena;+Welcome+to+My+Profile!;Starting+a+revolution+in+my+professional+carrer!;Padawan+Master+Code+Academia+de+Código;Always+hugry+to+learn+more+and+more!)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1589405) 
 
 
-<h5 align="right"> 💻 Code Cadet @ <br/><br/><a href="https://www.academiadecodigo.org">
+<h5 align="right"> 💻 Padawan Master Code @ <br/><br/><a href="https://www.academiadecodigo.org">
   <img src="https://www.eu-startups.com/wp-content/uploads/2019/07/Academia-decodigo-Logo-150x66.png)" alt="Academia de Código" style="width: 100px; height: 50px;"></a>  </h5> 
 
 <h5 align="left">Languages and Tools:</h5> <p align="center">
