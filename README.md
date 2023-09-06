@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ebbd9b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vinícius+Sena;+Welcome+to+My+Profile!;Starting+a+revolution+in+my+professional+carrer!;Padawan+Master+Code+Academia+de+Código;Always+hugry+to+learn+more+and+more!)](https://git.io/typing-svg)
 
 
-## 🌐 Socials:
+## 🌐 Let´s talk:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visenadev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinisena) 
