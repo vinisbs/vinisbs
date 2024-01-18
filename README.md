@@ -1,9 +1,4 @@
 ![](assets/bottom_up.svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ebbd9b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vinícius+Sena;+Welcome+to+My+Profile!;A+new+revolution+in+my+professional+carrer!;Always+hugry+to+learn+more+and+more!)](https://git.io/typing-svg)</p>
-
-
 ## 🌐 Let´s talk:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visenadev) 
@@ -12,7 +7,10 @@
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1589405) 
 <BR><BR>
 
-# 💻 My favorite tools and technologies
+
+# 💻 Tools and technologies
+
+<br><br>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -93,23 +91,26 @@
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="WordPress" />
       <br>IntelliJ
-   </tr>
-</table>
-<br>
-
-
+   </tr>  
+</table> 
 </div>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture><br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ebbd9b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vinícius+Sena;+Welcome+to+My+Profile!;A+new+revolution+in+my+professional+carrer!;Always+hugry+to+learn+more+and+more!)](https://git.io/typing-svg)
+
 
 <p align="right">
   <a href="https://github.com/vinisbs/"><img src="http://github-readme-stats.vercel.app/api/top-langs/?username=vinisbs&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="vinisbs :: Top Langs" /></a></p>
 
   
+
+<div align="center">
+  <img src="https://github.com/vinisbs/vinisbs/blob/main/assets/java.gif">
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinisbs/vinisbs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture><br/>
 
 <img src="https://visitcount.itsvg.in/api?id=ViniciusSena&label=Future%20Collaborators&color=12&icon=4&pretty=false">
 
