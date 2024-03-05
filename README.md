@@ -1,4 +1,4 @@
-![](assets/bottom_up.svg)
+
 ## 🌐 Let´s talk:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visenadev) 
